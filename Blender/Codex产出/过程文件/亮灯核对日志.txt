@@ -1,0 +1,9 @@
+00:00.145  translation      | WARNING Falling back to standard locale ("C")
+00:00.802  blend            | Read blend: "/Users/kummerspeck/Documents/ChatGPT/Blender/Codex产出/A_收银台立牌_独立模型.blend"
+00:48.991  render           | Saved: '/Users/kummerspeck/Documents/ChatGPT/Blender/Codex产出/A_完整支架_亮灯.png'
+BlenderMCP addon registered
+信息: 已另存为 "A_收银台立牌_独立模型.blend"
+BlenderMCP addon unregistered
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

@@ -1,0 +1,29 @@
+{
+  "checkout_F_face_RGBA.png": {
+    "size": [
+      2400,
+      1439
+    ],
+    "mode": "RGBA",
+    "sha256": "6c276eb025a601d94b4a811d4e139905654355e1a77715cd00a4beaea2cddb56",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bbox": [
+      0,
+      41,
+      2378,
+      1420
+    ],
+    "transparent_pixel_fraction": 0.3303
+  },
+  "checkout_F_reference.png": {
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "sha256": "bf9d18ab9477a6aea4c6e528d69419261f3365b314a9fb05a2dcdfb0ed934860"
+  }
+}

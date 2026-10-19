@@ -1,0 +1,5 @@
+00:02.771  translation      | WARNING Falling back to standard locale ("C")
+00:03.314  blend            | Read blend: "/Users/kummerspeck/Documents/ChatGPT/IDN官号内容/outputs/blender/双11-购物车日记.blend"
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit
